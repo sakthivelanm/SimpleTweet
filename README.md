@@ -38,8 +38,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+This project was fairly simple. Some more features were added to the app to give it more of the social media field. Once I have more time, I'd like to work on the deisgn of the app and make it have more of that "twitter" branding/feel.
 
 ## Open-source libraries used
 
@@ -79,8 +78,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 Android Studio wouldn't recognize the BuildConfig method that was supposed to be imported. To resolve this I had to clean the project and then rebuild it. I also tried to implement infinite pagination however I am running into some problems. The onLoadMore() function isn't getting called and doesn't appear on the Logcat when I scroll to to the bottom. All the logic is put in place however it seems that the actual function never does what it's supposed to do.
 
 ## Open-source libraries used
