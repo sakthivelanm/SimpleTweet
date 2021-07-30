@@ -24,7 +24,9 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="0dp"
         android:layout_toEndOf="@+id/ivProfileImage"
-        tools:text="Sakthi" />
+        tools:text="Sakthi"
+        android:linksClickable="true"
+        />
 
     <TextView
         android:id="@+id/tvBody"
