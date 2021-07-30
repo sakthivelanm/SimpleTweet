@@ -38,7 +38,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-This project was fairly simple. Some more features were added to the app to give it more of the social media field. Once I have more time, I'd like to work on the deisgn of the app and make it have more of that "twitter" branding/feel.
+This project was fairly simple. Some more features were added to the app to give it more of the social media feel, in that people are actually able to post. Once I have more time, I'd like to work on the deisgn of the app and make it have more of that "twitter" branding/feel.
 
 ## Open-source libraries used
 
